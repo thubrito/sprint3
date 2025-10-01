@@ -8,6 +8,7 @@ const Sobre: FC = () => {
         <p>
           O Projeto PHC visa melhorar a saúde digital, reduzindo o absenteísmo e
           facilitando o acesso aos serviços digitais de saúde.
+          
         </p>
       </section>
 
